@@ -1,0 +1,49 @@
+{
+    "devices": [
+        "emulator-5556"
+    ],
+    "params": {
+        "emulator-5556": {
+            "begen": [
+                150,
+                200
+            ],
+            "yorum": [
+                0,
+                0
+            ],
+            "kaydet": [
+                0,
+                0
+            ],
+            "takip": [
+                8,
+                10
+            ],
+            "kaydir": [
+                90,
+                120
+            ],
+            "sure": [
+                120,
+                160
+            ]
+        }
+    },
+    "schedules": {
+        "emulator-5556": {
+            "enabled": true,
+            "time_ranges": [],
+            "option": "run_only",
+            "wait_time": 30,
+            "shutdown_delay": 10,
+            "emulator_index": "1",
+            "work_duration": {
+                "min": "120",
+                "max": "160"
+            },
+            "user_profile": ""
+        }
+    },
+    "ldplayer_path": "C:/LDPlayer/Blue LDPlayer9 Magisk/ldconsole.exe"
+}

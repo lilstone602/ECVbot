@@ -1,0 +1,18 @@
+{
+    "proxy": {
+        "enabled": false,
+        "address": "",
+        "username": "",
+        "password": ""
+    },
+    "bot_settings": {
+        "global_delay": false,
+        "min_delay": 2,
+        "max_delay": 5,
+        "auto_save": true
+    },
+    "appearance": {
+        "theme": "Varsayılan",
+        "log_timestamp": true
+    }
+}

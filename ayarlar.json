@@ -1,0 +1,15 @@
+{
+    "serial": "emulator-5556",
+    "begen_min": "0",
+    "begen_max": "0",
+    "yorum_min": "0",
+    "yorum_max": "0",
+    "kaydet_min": "0",
+    "kaydet_max": "0",
+    "takip_min": "0",
+    "takip_max": "0",
+    "kaydir_min": "90",
+    "kaydir_max": "120",
+    "sure_min": "1200",
+    "sure_max": "1600"
+}
